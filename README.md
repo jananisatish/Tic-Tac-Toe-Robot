@@ -2,7 +2,7 @@
 
 ## How it plays
 
-This robot can play the game tic tac toe the same way a human can. At the start of the game, it will let you go first, telling you, “It’s your turn.” Once you’ve placed your coin, it will pick up one of its coins from a small platform with its claw and place it on the board. The robot can identify whether either you or it has made a three in a row or if the game is a draw, and will let you know accordingly. Also, it can detect opportunities to make a three in a row and can prevent you from making them too. 
+This robot can play the game tic tac toe the same way a human can. At the start of the game, it will let you go first, telling you, “It’s your turn.” Once you’ve placed your coin, it will pick up one of its coins from a small platform with its claw and place it on the board. The robot can identify whether either you or it has made a three in a row or if the game is a draw, and will let you know accordingly. Also, it can detect opportunities to make a three in a row and can prevent you from making them too. Here is a demonstration: 
 [![playing-with-robot](/images/video.png?raw=true)](https://www.youtube.com/watch?v=VIDEO-ID)
 
 ## Inspiration
