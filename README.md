@@ -18,7 +18,7 @@ The robot mainly uses a sensor called Pixy2. This sensor can detect objects base
 ### Gameboard
 
 The paper with the grid on it is fairly small, only 27 cm wide and 21.5 cm long, but the gameboard under it is 29.5 cm wide and 80 cm long. I made it out of cardboard, but it can be made of anything flat, stiff, and movable. Here is an image of it:
-![gameboard](/images/oie_7IpRwG7uDitl.jpg.jpg?raw=true)
+![gameboard](/images/oie_7IpRwG7uDitl.jpg?raw=true)
 
 ### Aligning Wall
 
