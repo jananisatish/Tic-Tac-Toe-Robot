@@ -189,7 +189,7 @@ def twoInARow(enemySquares):
                 if difference == 2 and playerSquares[j] == 4:
                     if playerSquares[i] == 6:
                         squaresToGoTo.append(2)
-                    else:
+                    else:   
                         squaresToGoTo.append(6)
                 if difference == 3:
                     if max(playerSquares[i], playerSquares[j]) + 3 < 9:
@@ -201,7 +201,7 @@ def twoInARow(enemySquares):
                         squaresToGoTo.append(8)
                     elif playerSquares[i] == 8:
                         squaresToGoTo.append(0)
-                    elif enemySquares[i] == 2 or enemySquares[i] == 6:
+                    elif playerSquares[i] == 2 or playerSquares[i] == 6:
                         squaresToGoTo.append(4)
                 if difference == 6:
                     squaresToGoTo.append(min(playerSquares[i], playerSquares[j]) + 3)
