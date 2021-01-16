@@ -24,7 +24,7 @@ The paper with the grid on it is fairly small, only 27 cm wide and 21.5 cm long,
 
 ### Aligning Wall
 
-You might have noticed that there is a cardboard wall on the gameboard in the image above. This is used to align the robot. It is A cm wide and B cm long, and the bent strips of cardboard that are used to hold up the wall are C cm wide and D cm long. Here is a picture of the wall: 
+You might have noticed that there is a cardboard wall on the gameboard in the image above. This is used to align the robot. It is 8 cm wide and 30.5 cm long, and the bent strips of cardboard that are used to hold up the wall are 3.5 cm wide and 8 cm long. Here is a picture of the wall: 
 
 ![aligning-wall](/images/oie_5hegQjbloei0.jpg?raw=true)
 
